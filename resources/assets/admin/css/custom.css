@@ -1,0 +1,27 @@
+textarea + .ck-editor .ck-content {
+    min-height: 150px;
+}
+#content + .ck-editor .ck-content {
+    min-height: 300px;
+}
+.ck .ck.ck-balloon-panel.ck-balloon-panel_visible {
+    display: none;
+}
+.card-body form label {
+    display: block;
+}
+.card-body form .add-btn,
+.card-body form .remove-btn {
+    background-color: #007bff;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+#form-create .custom-file-label::after {
+    content: "Обзор";
+}

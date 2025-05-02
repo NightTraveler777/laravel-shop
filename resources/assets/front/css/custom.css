@@ -1,0 +1,324 @@
+.blog-sidebar form input.is-invalid {
+    border-color: red;
+}
+.btn-sm.blog-btn {
+    width: 36px;
+    height: 36px;
+    border-radius: 5px;
+    font-size: 14px;
+    margin: 0 2px 0;
+}
+table .btn-sm.blog-btn {
+    margin: auto;
+}
+.account-dashboard .btn-primary {
+    background-color: #0a53be;
+}
+.account-dashboard form label {
+    display: block;
+}
+.account-dashboard form .add-btn,
+.account-dashboard form .remove-btn {
+    background-color: #0a53be;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.account-dashboard form.switch-profile {
+    display: inline-block;
+}
+.account-dashboard table th,
+.account-dashboard table td {
+    text-align: center;
+    vertical-align: middle;
+}
+.account-dashboard .form-group {
+    margin-bottom: 1rem;
+}
+.account-dashboard label {
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+.account-dashboard select {
+    height: 50px;
+}
+textarea + .ck-editor .ck-content {
+    min-height: 150px;
+}
+#content + .ck-editor .ck-content {
+    min-height: 300px;
+}
+.ck .ck.ck-balloon-panel.ck-balloon-panel_visible {
+    display: none;
+}
+.select2 .select2-selection {
+    display: flex;
+}
+.select2 .select2-selection .select2-selection__rendered {
+    padding: 0 7px;
+}
+.select2 .select2-selection .select2-selection__rendered li {
+    margin: 7px 7px 7px 0;
+}
+.select2 .select2-selection .select2-search input {
+    height: 0;
+}
+.pro-details-categories-info .description-review-wrapper {
+    margin-left: 0;
+}
+.pro-details-categories-info .description-review-wrapper .product-format-price {
+    display: flex;
+    align-items: last baseline;
+    justify-content: space-between;
+}
+.pro-details-categories-info .description-review-wrapper .price {
+    font-size: 24px;
+}
+.pro-details-categories-info .description-review-wrapper .product-anotherinfo-wrapper {
+    border-bottom: 1px solid #e1e1e1;
+}
+.product-details-content .pro-details-quality {
+    width: auto;
+}
+.wrap-tracklist .tracklist th,
+.wrap-tracklist .tracklist td {
+    text-align: center;
+    vertical-align: middle;
+}
+.wrap-tracklist .tracklist td .fa-shopping-basket {
+    font-size: 20px;
+    margin-left: 5px;
+}
+.wrap-tracklist .tracklist td .fa-play {
+    font-size: 20px;
+}
+.section-title h2.title {
+    font-size: 48px;
+    font-weight: 400;
+    margin: 0;
+}
+.pt-50px {
+    padding-top: 50px;
+}
+.pb-50px {
+    padding-bottom: 50px;
+}
+.product {
+    border-radius: 0;
+    border: 0;
+    background-color: #f7f7f7;
+    padding: 0;
+}
+.product .content {
+    background-color: transparent;
+}
+.product .format-wrap {
+    margin: 5px 0 10px;
+}
+.product .format {
+    display: inline-block;
+    background-color: #f38809;
+    color: #fff;
+    font-weight: 600;
+    font-size: 12px;
+    padding: 0 8px;
+    line-height: 24px;
+}
+.product .category {
+    margin-bottom: 5px;
+}
+.product .btn,
+.btn-primary.blog-btn {
+    border: 1px solid #f38809;
+    border-radius: 0;
+    color: #f38809;
+    width: 100%;
+    background-color: transparent;
+}
+.btn-primary.blog-btn {
+    height: 50px;
+}
+.product .btn {
+    font-size: 14px;
+    height: 40px;
+}
+.product .btn:hover,
+.btn-primary.blog-btn:hover {
+    color: #fff;
+    background-color: #f38809;
+    border: 1px solid #f38809;
+}
+.product .content h4 a,
+.product .content h5 a,
+.product .content h6 a {
+    color: #2c2c2c;
+}
+.product .content h4,
+.product .content h5,
+.product .content h6 {
+    margin-bottom: 5px;
+}
+.product .content h4 {
+    font-size: 18px;
+}
+.product .content h5 {
+    font-size: 16px;
+}
+.product .content h6 {
+    font-size: 14px;
+}
+.product .content .category a,
+.product .content h4 a,
+.product .content h5 a,
+.product .content h6 a {
+    transition: color 0.3s ease;
+}
+.product .content .category a:hover,
+.product .content h4 a:hover,
+.product .content h5 a:hover,
+.product .content h6 a:hover {
+    color: #f38809;
+}
+.product .content {
+    padding-bottom: 15px;
+}
+.single-blog .blog-image {
+    border-radius: 0;
+}
+.single-blog .blog-athor-date span i {
+    color: #f38809;
+}
+.single-blog .blog-athor-date a:hover {
+    color: #f38809;
+}
+#scrollUp {
+    background-color: #f38809;
+    border-radius: 0;
+    transition: opacity 0.3s ease;
+}
+#scrollUp:hover {
+    opacity: 0.8;
+    background-color: #f38809;
+}
+.footer-top {
+    background: #ececec;
+}
+.footer-bottom {
+    background: #222 none repeat scroll 0 0;
+}
+.footer-bottom .copy-text {
+    color: #ececec;
+}
+.search-element form button,
+header .header-bottom .header-actions .header-action-btn .header-action-num {
+    background-color: #f38809;
+}
+header .header-bottom .header-actions .header-action-btn:hover,
+header .header-bottom .header-actions .header-action-btn i:hover {
+    color: #f38809;
+}
+.search-element form input,
+.search-element form button {
+    border-radius: 0;
+}
+.search-element form button:hover {
+    background-color: #f38809;
+    opacity: 0.8;
+}
+header .main-menu,
+.sticky-nav.menu_fixed {
+    background-color: #333;
+}
+.breadcrumb-list li.active,
+.breadcrumb-list li a:hover,
+.breadcrumb-item + .breadcrumb-item::before {
+    color: #f38809;
+}
+.pro-pagination-style a {
+    border-radius: 0;
+    border-width: 1px;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    font-weight: 400;
+    font-size: 16px;
+}
+.page-item:first-child .page-link,
+.page-item:last-child .page-link {
+    border-radius: 0;
+}
+.pro-pagination-style a.active,
+.pro-pagination-style a:hover,
+.pro-pagination-style a.page-link:focus {
+    color: #f38809;
+    border-color: #f38809;
+}
+.blog-sidebar form input,
+.blog-sidebar .sidebar-widget-group {
+    border-radius: 0;
+    border-width: 1px;
+}
+.blog-sidebar form input:focus {
+    border-color: #f38809;
+}
+.blog-sidebar form button,
+.blog-sidebar .recent-post-widget .recent-single-post .media-side span i,
+.single-blog .blog-text .blog-heading .blog-heading-link:hover,
+.blog-post-content-inner .blog-athor-date span i,
+.blog-single-tags-share .social li a,
+.blog-nav .media-side span i {
+    color: #f38809;
+}
+.blog-sidebar .sidebar-widget .sidebar-title::after,
+.comment-area .comment-heading::after,
+.blog-comment-form .comment-heading::after {
+    height: 1px;
+}
+.blog-sidebar .sidebar-widget-tag ul li a {
+    border-radius: 0;
+    padding: 10px 15px;
+    font-size: 14px;
+}
+.blog-sidebar .sidebar-widget-tag ul li a:hover {
+    background-color: #f38809;
+    border-color: #f38809;
+}
+.blog-sidebar .recent-post-widget .recent-single-post .thumb-side img {
+    border-radius: 0;
+}
+.blog-single-tags-share {
+    border-width: 1px;
+}
+.blog-comment-form .submit-btn {
+    border-radius: 0;
+    background-color: transparent;
+    color: #f38809;
+    border: 1px solid #f38809;
+}
+.blog-comment-form .submit-btn:hover {
+    color: #fff;
+    background-color: #f38809;
+}
+.page-item.active .page-link {
+    background-color: #f38809;
+    border-color: #f38809;
+}
+.page-link,
+.page-link:hover,
+.page-link:focus {
+    color: #f38809;
+}
+.page-link:focus {
+    box-shadow: none;
+}
+.blog-comment-form .single-form textarea {
+    border-radius: 0;
+}
+.blog-comment-form .single-form textarea:focus {
+    border-color: #f38809;
+}
